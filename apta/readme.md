@@ -51,7 +51,7 @@ apta also includes symbols for nonstandard/extipa consonants:
 ||`&`*|`6`|	
 |open|`a 9;`*|`a\|`*|`A 8`|
 
-* Big Phonology refuses to accept that /a/ is central. fuck them
+\* Big Phonology refuses to accept that /a/ is central. fuck them
 
 ## diacritics
 
